@@ -1,0 +1,42 @@
+.header {
+    height: 2rem;
+    padding-top: 0.88rem;
+    position: relative;
+    background-image: linear-gradient(180deg, #ff6040 0%, #ff8a80 100%);
+    box-shadow: 0 2px 6px 0 rgba(255, 149, 128, 0.5);
+  }
+  .header h3 .icon-demo1 {
+    font-size: 0.48rem;
+    position: absolute;
+    left: 0.32rem;
+  }
+  .header h3 {
+    text-align: center;
+    color: white;
+    font-weight: normal;
+    height: 0.88rem;
+    font-size: 0.48rem;
+    line-height: 0.44rem;
+  }
+  .search {
+    position: relative;
+  }
+  .header input {
+    width: 6.7rem;
+    height: 0.64rem;
+    border-radius: 0.03rem;
+    border: 1px solid transparent;
+    outline: none;
+    margin-left: 0.2rem;
+    padding-left: 0.4rem;
+    margin-bottom: 0.2rem;
+  }
+  .header .icon-sousuo {
+    margin-right: 2%;
+    font-size: 0.36rem;
+    line-height: 0.64rem;
+    position: absolute;
+    color: #ddd;
+    left: 0.25rem;
+    top: 0.05rem;
+  }
